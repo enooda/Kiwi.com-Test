@@ -1,5 +1,10 @@
 # Kiwi.com-Test
 
+<img src="https://images.pexels.com/photos/3602269/pexels-photo-3602269.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" style="width: 50%; height: auto;" />
+
+
+
+
 **Introduction**
 
 This script tests the comparison of flight tickets on Kiwi.com and the booking of an accommodation on Booking.com. The script is written in Java and uses Selenium for web automation.
