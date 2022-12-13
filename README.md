@@ -1,6 +1,6 @@
 # Kiwi.com-Test
 
-<img src="https://images.pexels.com/photos/3602269/pexels-photo-3602269.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" style="width: 50%; height: auto;" />
+<img src="https://i.ibb.co/HFMgX7x/kiwi-com-test.png" style="width: 100%; height: auto;" />
 
 
 
